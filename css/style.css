@@ -1,0 +1,29 @@
+body{
+    margin:0px;
+    padding:0px;
+}
+
+#main-heading{
+    color:rgb(80, 23, 23);
+    font-size:50px;
+    display:inline-block;
+    text-transform:uppercase;
+}
+#nameInput{
+    margin-left:20px;
+    padding:10px;
+    box-shadow:6px 3px 5px  rgb(58, 13, 16); 
+    border-radius:10px;
+    transition:0.10s ease;
+    font-size:20px;
+}
+#addbtn{
+    padding:10px 20px;
+    border-radius:10px;
+     box-shadow:6px 3px 5px  rgb(58, 13, 16); 
+     margin-left:30px;
+    font-size:20px;
+}
+#nameList{
+    font-size:30px;
+}
